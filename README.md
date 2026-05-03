@@ -1,7 +1,7 @@
 # Hi 👋, I'm Fayruz
 
 🚀 Frontend / Fullstack Developer  
-💻 React, Next.js, Node.js, TailwindCSS  
+💻 React, Next.js, Node.js, TailwindCSS, Express  
 📍 Indonesia  
 
 ---
@@ -22,10 +22,11 @@
 ---
 
 ## 📌 Projects
-- 🧾 KasirPOS – https://kasirpos.vercel.app/
+- 🧾 KasirPOS 
 - 📚 Jendela Dunia (Perpustakaan Web)
 - 🎬 Anime Streaming Website
 - 👕 Borcelle Thrift Landing Page
+- 📢 Aspiran – Website Pengaduan Masyarakat
 
 ---
 
@@ -35,5 +36,5 @@
 ---
 
 ## 📫 Contact
-- Email: kamu@email.com
-- Instagram: @username
+- Email: mfayruz85@email.com
+- Instagram: @fayruary
