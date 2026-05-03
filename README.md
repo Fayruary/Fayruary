@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi 👋, I'm Fayruz Anwr
+  Hi 👋, I'm Muhammad Fairuz Anwar
 </h1>
 
 <h3 align="center">
-  💻 Fullstack Web Developer | React • Node.js • Next.js
+  💻 Fullstack Web Developer | React • Node.js • Next.js • Express
 </h3>
 
 <p align="center">
@@ -31,29 +31,17 @@ Saya seorang web developer yang fokus membangun aplikasi modern, cepat, dan clea
 
 ## 📌 Projects
 
-- 🧾 **KasirPOS** – https://kasirpos.vercel.app/
-- 📢 **Aspiran** – Website Pengaduan Masyarakat (JWT Auth, Role System, Node.js + MySQL)
+- 🧾 **KasirPOS** – Website Kasir
+- 📢 **Aspiran** – Website Pengaduan Masyarakat 
 - 📚 Jendela Dunia – Perpustakaan Web
 - 🎬 Anime Streaming Website
 - 👕 Borcelle Thrift Landing Page
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
-  📧 Email: kamu@email.com  
-  🌐 GitHub: https://github.com/USERNAMEKAMU
+  📧 Email: mfayruz85@email.com  
+  🌐 instagram: fayruary
 </p>
