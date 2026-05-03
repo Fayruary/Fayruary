@@ -30,11 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true)
-
----
-
 ## 📫 Contact
 - Email: mfayruz85@email.com
 - Instagram: @fayruary
