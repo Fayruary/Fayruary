@@ -60,7 +60,6 @@ I'm a web developer focused on building modern, fast, and clean applications usi
       <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h4>Aspiran</h4>
@@ -76,12 +75,6 @@ I'm a web developer focused on building modern, fast, and clean applications usi
       <p>Web-based library platform for browsing, borrowing, and managing books.</p>
       <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>Anime Streaming Website</h4>
-      <p>Streaming platform concept for browsing and watching anime episodes online.</p>
-      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
     </td>
   </tr>
   <tr>
