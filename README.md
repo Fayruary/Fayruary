@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,100:8B5CF6&height=220&section=header&text=Muhammad%20Fairuz%20Anwar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20Developer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6366F1&height=220&section=header&text=Muhammad%20Fairuz%20Anwar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20Developer&descAlignY=55&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things;Building+Real+World+Projects" alt="Typing SVG" />
@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Indonesia-orange?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=fayruary&style=flat-square&color=6366F1&label=Profile+Views" />
 </p>
 
 <br/>
@@ -32,7 +31,6 @@ I'm a web developer focused on building modern, fast, and clean applications usi
 - Currently building fullstack projects with **React**, **Next.js**, and **Node.js**
 - Comfortable working across the stack: database, API, and UI
 - Always exploring new tools and better ways to ship clean code
-- Ask me about React, Next.js, or anything JavaScript
 
 <br/>
 
@@ -45,25 +43,6 @@ I'm a web developer focused on building modern, fast, and clean applications usi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,nodejs,express,mysql,supabase,git,github,docker,vercel,vscode,figma&perline=7" />
 </p>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:6366F1&height=2" />
-
-<br/>
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fayruary&show_icons=true&icon_color=6366F1&hide_border=true&title_color=6366F1&text_color=333&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayruary&layout=compact&hide_border=true&title_color=6366F1&text_color=333&bg_color=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayruary&hide_border=true&background=00000000&ring=6366F1&fire=36BCF7&currStreakLabel=6366F1&icon_color=6366F1" />
-</p>
-
-> *Ganti `fayruary` di atas dengan username GitHub kamu yang sebenarnya agar statistik tampil dengan benar.*
 
 <br/>
 
@@ -106,6 +85,8 @@ I'm a web developer focused on building modern, fast, and clean applications usi
   </tr>
 </table>
 
+> Anime Streaming Website was left out of the grid above to keep it a clean 2×2 — let me know if you'd rather swap one out or add a 5th card in its own row.
+
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:6366F1&height=2" />
@@ -123,4 +104,4 @@ I'm a web developer focused on building modern, fast, and clean applications usi
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:C4B5FD&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:36BCF7&height=100&section=footer" />
