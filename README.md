@@ -59,14 +59,15 @@ I'm a web developer focused on building modern, fast, and clean applications usi
       <p>Point-of-sale (cashier) web application for managing transactions, products, and sales reports.</p>
       <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h4>Aspiran</h4>
       <p>Public complaint and aspiration platform that lets citizens submit and track reports.</p>
       <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
   </tr>
   <tr>
