@@ -52,24 +52,6 @@ I'm a web developer focused on building modern, fast, and clean applications usi
 
 <br/>
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fayruary&show_icons=true&icon_color=8B5CF6&hide_border=true&title_color=8B5CF6&text_color=333&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayruary&layout=compact&hide_border=true&title_color=8B5CF6&text_color=333&bg_color=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayruary&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&icon_color=8B5CF6" />
-</p>
-
-> *Ganti `fayruary` di atas dengan username GitHub kamu yang sebenarnya agar statistik tampil dengan benar.*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C4B5FD,100:8B5CF6&height=2" />
-
-<br/>
 
 ### Featured Projects
 
